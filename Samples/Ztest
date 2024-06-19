@@ -1,0 +1,8 @@
+{
+  "TestURLs": 
+  [
+    "https://www2.hm.com/it_it/index.html/{appId}?tenantId={tenantId}&__PATestCaseId={testCaseId}",
+    "https://www2.hm.com/it_it/uomo.html/{appId}?tenantId={tenantId}&__PATestCaseId={testCaseId}",
+    "https://www2.hm.com/it_it/donna.html/{appId}?tenantId={tenantId}&__PATestCaseId={testCaseId}"
+  ]
+}
